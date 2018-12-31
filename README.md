@@ -1,8 +1,8 @@
-##VolumeRendering
-###一、存在的BUG
+## VolumeRendering
+### 一、存在的BUG
 1. 拖动会有残影 -- 已修复
 
-###二、遇到的问题与解决方案
+### 二、遇到的问题与解决方案
 1. Ray Casting
 - back to front
 ```
