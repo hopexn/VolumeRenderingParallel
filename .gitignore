@@ -1,0 +1,17 @@
+.idea
+client/cmake-build-debug 
+cmake-build-debug
+build
+.DS_Store
+.git
+data/*
+ispc/*.h
+ispc/*.o
+VolumeRenderer*
+*.o
+*.lo
+third_party/jpeg-9c/.libs
+tmp.zip
+*.tmp
+test.jpg
+test.ppm

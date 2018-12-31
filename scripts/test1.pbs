@@ -1,0 +1,7 @@
+#PBS -N test1
+#PBS -q gpu
+#PBS -o case1.out
+#PBS -e case1.err
+#PBS -l nodes=8:ppn=1
+cd /public/home/yanyuyu/hopen/VolumeRendering
+sh ./test_case1.sh
